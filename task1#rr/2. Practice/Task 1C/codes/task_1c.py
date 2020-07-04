@@ -120,8 +120,7 @@ def computeSum(img_file_path, shortestPath):
         digits_list.append(int(predicted_number))
         if(coord in path_digits_coordnts):
             digits_on_path.append(int(predicted_number))
-            sum_of_digits_on_path = sum_of_digits_on_path +
-                int(predicted_number)
+            sum_of_digits_on_path = sum_of_digits_on_path + int(predicted_number)
 
     ###################################################
 

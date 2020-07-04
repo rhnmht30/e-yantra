@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceRoot}",
+                "${env.HOME}/eYFi-IDE/VSCode-linux-x64/data/extensions/ey-ide-extn-vs-code/eY-toolchain/avr/std-tools/avr/avr/include/avr/iom2560.h",
+                "${env.HOME}/eYFi-IDE/VSCode-linux-x64/data/extensions/ey-ide-extn-vs-code/eY-toolchain/avr/std-tools/avr/avr/include/avr/iomxx0_1.h",
+                "${env.HOME}/eYFi-IDE/VSCode-linux-x64/data/extensions/ey-ide-extn-vs-code/eY-toolchain/avr/std-tools/avr/avr/include/eyfi"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
